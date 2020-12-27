@@ -1,0 +1,6 @@
+2020-12-27T23:27:44.7772343+01:00 0HM5AMQG4B6AO:00000002 [ERR] An error occured while trying to increase or retrieve the page display count. Number parameter is: 24 (b0b3f890)
+System.Collections.Generic.KeyNotFoundException: The given key '24' was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at LoggingExample.Services.Counter.IncrementNumberCount(Int32 number) in C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea10\03_LoggingExample_begin\LoggingExample\Services\Counter.cs:line 23
+   at LoggingExample.Controllers.HomeController.GetDividedNumber(Int32 id) in C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea10\03_LoggingExample_begin\LoggingExample\Controllers\HomeController.cs:line 36
+2020-12-27T23:36:51.5851822+01:00 0HM5AMUVQLSBL:00000001 [ERR] GetDividedNumber - Success (e8890a0d)
