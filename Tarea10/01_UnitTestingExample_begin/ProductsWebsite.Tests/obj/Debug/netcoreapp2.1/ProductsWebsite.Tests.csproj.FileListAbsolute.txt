@@ -1,0 +1,5 @@
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea10\01_UnitTestingExample_begin\ProductsWebsite.Tests\bin\Debug\netcoreapp2.1\ProductsWebsite.dll
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea10\01_UnitTestingExample_begin\ProductsWebsite.Tests\obj\Debug\netcoreapp2.1\ProductsWebsite.Tests.csprojAssemblyReference.cache
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea10\01_UnitTestingExample_begin\ProductsWebsite.Tests\obj\Debug\netcoreapp2.1\ProductsWebsite.Tests.csproj.CoreCompileInputs.cache
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea10\01_UnitTestingExample_begin\ProductsWebsite.Tests\obj\Debug\netcoreapp2.1\ProductsWebsite.Tests.AssemblyInfoInputs.cache
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea10\01_UnitTestingExample_begin\ProductsWebsite.Tests\obj\Debug\netcoreapp2.1\ProductsWebsite.Tests.AssemblyInfo.cs
