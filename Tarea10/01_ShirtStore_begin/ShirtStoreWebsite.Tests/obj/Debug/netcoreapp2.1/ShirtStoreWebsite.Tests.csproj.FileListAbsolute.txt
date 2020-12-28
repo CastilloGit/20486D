@@ -1,0 +1,16 @@
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea10\01_ShirtStore_begin\ShirtStoreWebsite.Tests\bin\Debug\netcoreapp2.1\ShirtStoreWebsite.Views.dll
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea10\01_ShirtStore_begin\ShirtStoreWebsite.Tests\bin\Debug\netcoreapp2.1\ShirtStoreWebsite.Views.pdb
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea10\01_ShirtStore_begin\ShirtStoreWebsite.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea10\01_ShirtStore_begin\ShirtStoreWebsite.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea10\01_ShirtStore_begin\ShirtStoreWebsite.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea10\01_ShirtStore_begin\ShirtStoreWebsite.Tests\bin\Debug\netcoreapp2.1\ShirtStoreWebsite.Tests.deps.json
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea10\01_ShirtStore_begin\ShirtStoreWebsite.Tests\bin\Debug\netcoreapp2.1\ShirtStoreWebsite.Tests.runtimeconfig.json
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea10\01_ShirtStore_begin\ShirtStoreWebsite.Tests\bin\Debug\netcoreapp2.1\ShirtStoreWebsite.Tests.runtimeconfig.dev.json
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea10\01_ShirtStore_begin\ShirtStoreWebsite.Tests\bin\Debug\netcoreapp2.1\ShirtStoreWebsite.Tests.dll
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea10\01_ShirtStore_begin\ShirtStoreWebsite.Tests\bin\Debug\netcoreapp2.1\ShirtStoreWebsite.dll
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea10\01_ShirtStore_begin\ShirtStoreWebsite.Tests\bin\Debug\netcoreapp2.1\ShirtStoreWebsite.pdb
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea10\01_ShirtStore_begin\ShirtStoreWebsite.Tests\obj\Debug\netcoreapp2.1\ShirtStoreWebsite.Tests.csprojAssemblyReference.cache
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea10\01_ShirtStore_begin\ShirtStoreWebsite.Tests\obj\Debug\netcoreapp2.1\ShirtStoreWebsite.Tests.csproj.CoreCompileInputs.cache
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea10\01_ShirtStore_begin\ShirtStoreWebsite.Tests\obj\Debug\netcoreapp2.1\ShirtStoreWebsite.Tests.AssemblyInfoInputs.cache
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea10\01_ShirtStore_begin\ShirtStoreWebsite.Tests\obj\Debug\netcoreapp2.1\ShirtStoreWebsite.Tests.AssemblyInfo.cs
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea10\01_ShirtStore_begin\ShirtStoreWebsite.Tests\obj\Debug\netcoreapp2.1\ShirtStoreWebsite.Tests.csproj.CopyComplete
