@@ -27,3 +27,5 @@ C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea12\lab\01_ElectricStore_begi
 C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea12\lab\01_ElectricStore_begin\ElectricStore\obj\Debug\netcoreapp2.1\ElectricStore.dll
 C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea12\lab\01_ElectricStore_begin\ElectricStore\obj\Debug\netcoreapp2.1\ElectricStore.pdb
 C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea12\lab\01_ElectricStore_begin\ElectricStore\obj\Debug\netcoreapp2.1\ElectricStore.csproj.CopyComplete
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea12\lab\01_ElectricStore_begin\ElectricStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\NavbarMenu\MenuCategories.g.cshtml.cs
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea12\lab\01_ElectricStore_begin\ElectricStore\obj\Debug\netcoreapp2.1\Razor\Views\ShoppingCart\Chat.g.cshtml.cs

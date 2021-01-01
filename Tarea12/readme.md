@@ -14,9 +14,15 @@ Entregar el url de GitHub con la solución y un readme con las siguiente informa
 
 3. **Resumen del Ejercicio:** 
 
-   Ejercicio1: comprobar en fichero json las dependencias
+   Prerequisitos: comprobar en fichero json las dependencias
 
    ![image-20201231011051304](C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea12\img\img1.PNG)
+
+   
+
+   Ejercicio1: implementando una estrategia de caché
+
+   
 
 4. **Dificultad o problemas presentados y como se resolvieron:** Errores en la consola del programa, la página web no realizaba los cambios solicitados, etc.
 
