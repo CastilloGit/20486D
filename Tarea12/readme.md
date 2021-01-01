@@ -22,6 +22,10 @@ Entregar el url de GitHub con la solución y un readme con las siguiente informa
 
    Ejercicio1: implementando una estrategia de caché
 
+   DEMOS
+
+   Lesson 1: Implementing a Caching Strategy
+
    
 
 4. **Dificultad o problemas presentados y como se resolvieron:** Errores en la consola del programa, la página web no realizaba los cambios solicitados, etc.
