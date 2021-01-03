@@ -1,0 +1,14 @@
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\01_WebApiExample_begin\WebApiExample\bin\Debug\netcoreapp2.1\WebApiExample.deps.json
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\01_WebApiExample_begin\WebApiExample\bin\Debug\netcoreapp2.1\WebApiExample.runtimeconfig.json
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\01_WebApiExample_begin\WebApiExample\bin\Debug\netcoreapp2.1\WebApiExample.runtimeconfig.dev.json
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\01_WebApiExample_begin\WebApiExample\bin\Debug\netcoreapp2.1\WebApiExample.dll
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\01_WebApiExample_begin\WebApiExample\bin\Debug\netcoreapp2.1\WebApiExample.pdb
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\01_WebApiExample_begin\WebApiExample\obj\Debug\netcoreapp2.1\WebApiExample.csproj.CoreCompileInputs.cache
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\01_WebApiExample_begin\WebApiExample\obj\Debug\netcoreapp2.1\WebApiExample.RazorAssemblyInfo.cache
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\01_WebApiExample_begin\WebApiExample\obj\Debug\netcoreapp2.1\WebApiExample.RazorAssemblyInfo.cs
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\01_WebApiExample_begin\WebApiExample\obj\Debug\netcoreapp2.1\WebApiExample.AssemblyInfoInputs.cache
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\01_WebApiExample_begin\WebApiExample\obj\Debug\netcoreapp2.1\WebApiExample.AssemblyInfo.cs
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\01_WebApiExample_begin\WebApiExample\obj\Debug\netcoreapp2.1\WebApiExample.RazorTargetAssemblyInfo.cache
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\01_WebApiExample_begin\WebApiExample\obj\Debug\netcoreapp2.1\WebApiExample.dll
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\01_WebApiExample_begin\WebApiExample\obj\Debug\netcoreapp2.1\WebApiExample.pdb
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\01_WebApiExample_begin\WebApiExample\obj\Debug\netcoreapp2.1\WebApiExample.csprojAssemblyReference.cache
