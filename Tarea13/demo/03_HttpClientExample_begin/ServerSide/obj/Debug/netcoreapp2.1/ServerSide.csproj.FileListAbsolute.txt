@@ -1,0 +1,13 @@
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\03_HttpClientExample_begin\ServerSide\bin\Debug\netcoreapp2.1\ServerSide.deps.json
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\03_HttpClientExample_begin\ServerSide\bin\Debug\netcoreapp2.1\ServerSide.runtimeconfig.json
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\03_HttpClientExample_begin\ServerSide\bin\Debug\netcoreapp2.1\ServerSide.runtimeconfig.dev.json
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\03_HttpClientExample_begin\ServerSide\bin\Debug\netcoreapp2.1\ServerSide.dll
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\03_HttpClientExample_begin\ServerSide\bin\Debug\netcoreapp2.1\ServerSide.pdb
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\03_HttpClientExample_begin\ServerSide\obj\Debug\netcoreapp2.1\ServerSide.csproj.CoreCompileInputs.cache
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\03_HttpClientExample_begin\ServerSide\obj\Debug\netcoreapp2.1\ServerSide.RazorAssemblyInfo.cache
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\03_HttpClientExample_begin\ServerSide\obj\Debug\netcoreapp2.1\ServerSide.RazorAssemblyInfo.cs
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\03_HttpClientExample_begin\ServerSide\obj\Debug\netcoreapp2.1\ServerSide.AssemblyInfoInputs.cache
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\03_HttpClientExample_begin\ServerSide\obj\Debug\netcoreapp2.1\ServerSide.AssemblyInfo.cs
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\03_HttpClientExample_begin\ServerSide\obj\Debug\netcoreapp2.1\ServerSide.RazorTargetAssemblyInfo.cache
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\03_HttpClientExample_begin\ServerSide\obj\Debug\netcoreapp2.1\ServerSide.dll
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\03_HttpClientExample_begin\ServerSide\obj\Debug\netcoreapp2.1\ServerSide.pdb

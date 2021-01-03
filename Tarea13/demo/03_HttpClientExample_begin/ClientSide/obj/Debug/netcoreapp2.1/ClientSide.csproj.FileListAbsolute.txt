@@ -1,0 +1,14 @@
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\03_HttpClientExample_begin\ClientSide\bin\Debug\netcoreapp2.1\ClientSide.deps.json
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\03_HttpClientExample_begin\ClientSide\bin\Debug\netcoreapp2.1\ClientSide.runtimeconfig.json
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\03_HttpClientExample_begin\ClientSide\bin\Debug\netcoreapp2.1\ClientSide.runtimeconfig.dev.json
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\03_HttpClientExample_begin\ClientSide\bin\Debug\netcoreapp2.1\ClientSide.dll
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\03_HttpClientExample_begin\ClientSide\bin\Debug\netcoreapp2.1\ClientSide.pdb
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\03_HttpClientExample_begin\ClientSide\obj\Debug\netcoreapp2.1\ClientSide.csprojAssemblyReference.cache
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\03_HttpClientExample_begin\ClientSide\obj\Debug\netcoreapp2.1\ClientSide.csproj.CoreCompileInputs.cache
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\03_HttpClientExample_begin\ClientSide\obj\Debug\netcoreapp2.1\ClientSide.RazorAssemblyInfo.cache
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\03_HttpClientExample_begin\ClientSide\obj\Debug\netcoreapp2.1\ClientSide.RazorAssemblyInfo.cs
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\03_HttpClientExample_begin\ClientSide\obj\Debug\netcoreapp2.1\ClientSide.AssemblyInfoInputs.cache
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\03_HttpClientExample_begin\ClientSide\obj\Debug\netcoreapp2.1\ClientSide.AssemblyInfo.cs
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\03_HttpClientExample_begin\ClientSide\obj\Debug\netcoreapp2.1\ClientSide.RazorTargetAssemblyInfo.cache
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\03_HttpClientExample_begin\ClientSide\obj\Debug\netcoreapp2.1\ClientSide.dll
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\demo\03_HttpClientExample_begin\ClientSide\obj\Debug\netcoreapp2.1\ClientSide.pdb

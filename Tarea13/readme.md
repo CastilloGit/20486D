@@ -10,7 +10,7 @@ Entregar el url de GitHub con la solución y un readme con las siguiente informa
 
 3. **Resumen del Ejercicio:** 
 
-   Laboratorio: finalidad
+   **Laboratorio**: finalidad
 
    Implementación de API web 
 
@@ -21,6 +21,24 @@ Entregar el url de GitHub con la solución y un readme con las siguiente informa
    Ejercicio 3: llamar a una API web mediante jQuery 
 
    ![image-20210102232100741](C:\Users\jcarl\AppData\Roaming\Typora\typora-user-images\image-20210102232100741.png)
+
+   
+
+   **Demo1**: Lesson2 - How to Develop a Web API
+
+   ![image-20210103095958908](C:\Users\jcarl\AppData\Roaming\Typora\typora-user-images\image-20210103095958908.png)
+
+   Demo2: Lesson3 - How to Call Web APIs by Using jQuery Code
+
+   ![image-20210103101408668](C:\Users\jcarl\AppData\Roaming\Typora\typora-user-images\image-20210103101408668.png)
+
+   
+
+   Demo3: Lesson4 - How to Call Web APIs by Using Server-Side Code
+
+   ![image-20210103102317006](C:\Users\jcarl\AppData\Roaming\Typora\typora-user-images\image-20210103102317006.png)
+
+   
 
 4. **Dificultad o problemas presentados y como se resolvieron:** Errores en la consola del programa, la página web no realizaba los cambios solicitados, etc.
 
