@@ -1,0 +1,14 @@
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\lab\01_Restaurant_begin\Server\bin\Debug\netcoreapp2.1\Server.deps.json
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\lab\01_Restaurant_begin\Server\bin\Debug\netcoreapp2.1\Server.runtimeconfig.json
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\lab\01_Restaurant_begin\Server\bin\Debug\netcoreapp2.1\Server.runtimeconfig.dev.json
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\lab\01_Restaurant_begin\Server\bin\Debug\netcoreapp2.1\Server.dll
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\lab\01_Restaurant_begin\Server\bin\Debug\netcoreapp2.1\Server.pdb
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\lab\01_Restaurant_begin\Server\obj\Debug\netcoreapp2.1\Server.csprojAssemblyReference.cache
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\lab\01_Restaurant_begin\Server\obj\Debug\netcoreapp2.1\Server.csproj.CoreCompileInputs.cache
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\lab\01_Restaurant_begin\Server\obj\Debug\netcoreapp2.1\Server.RazorAssemblyInfo.cache
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\lab\01_Restaurant_begin\Server\obj\Debug\netcoreapp2.1\Server.RazorAssemblyInfo.cs
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\lab\01_Restaurant_begin\Server\obj\Debug\netcoreapp2.1\Server.AssemblyInfoInputs.cache
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\lab\01_Restaurant_begin\Server\obj\Debug\netcoreapp2.1\Server.AssemblyInfo.cs
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\lab\01_Restaurant_begin\Server\obj\Debug\netcoreapp2.1\Server.RazorTargetAssemblyInfo.cache
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\lab\01_Restaurant_begin\Server\obj\Debug\netcoreapp2.1\Server.dll
+C:\Users\jcarl\source\repos\CastilloGit\20486D\Tarea13\lab\01_Restaurant_begin\Server\obj\Debug\netcoreapp2.1\Server.pdb
